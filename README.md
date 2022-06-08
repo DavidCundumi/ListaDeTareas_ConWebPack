@@ -1,5 +1,5 @@
 # Lista De Tareas
-Este proyecto fue creado con fines academicos para que los usuarios puedan hacer una trasabilidad de sus tareas en tiermpo real utilizando WebPack.
+Este proyecto fue creado con fines academicos para que los usuarios puedan hacer una trasabilidad de sus tareas y actividades en tiermpo real.
 
 ### Notas:
 Recuerden reconstruir los módulos de node (se hace a partir del package.json con el siguiente comando)
