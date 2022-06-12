@@ -1,4 +1,4 @@
-import { Tarea } from '/Curso-JavaScript/ListaDeTareas_WebPackAux/src/classes/Tarea.class.js';
+import { Tarea } from '/Curso-JavaScript/ListaDeTareas_WebPack/src/classes/Tarea.class.js';
 import { Tareas } from '../index.js';
 /*
 import { Tarea } from '/Curso-JavaScript/ListaDeTareas_WebPackAux/src/classes/Tarea.class.js';
